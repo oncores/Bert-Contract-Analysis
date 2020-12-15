@@ -1,0 +1,1 @@
+bert_intellicon으로 encoder 생성 후 wise_intellicon으로 분류 모델 결과 생성

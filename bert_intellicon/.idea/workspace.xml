@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80247cb9-73b2-476b-8a32-a339323a6d03" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pytorch_pretrained_bert/modeling.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src_examples/preprocess_function.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src_examples/sentence_classifier.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1PyG72w4oAu900xSU8S7D9415Tt" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\bert_experiment_ko\src_examples" />
+      <recent name="D:\test\bert_experiment_en\src_tokenizer" />
+      <recent name="D:\test\bert_experiment\src_examples" />
+      <recent name="D:\test\001_bert_morp_pytorch\src_examples" />
+      <recent name="D:\001_bert_morp_pytorch\src_examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_bert">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="001_bert_morp_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Jeon\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_examples/run_mrc_finetuning_sample.py" />
+      <option name="PARAMETERS" value="--openapi_key='922f3ed2-fda9-42fb-85a8-18909314f43c' --bert_mode='bert_config.json' --bert_model_file='pytorch_model.bin' --vocab_file='vocab.korean_morp.list' --output_dir='output_dir' --train_file='KorQuAD_v1.0_train.json' --predict_file='KorQuAD_v1.0_dev.json' --eval_folder='./output_dir' --train_batch_size=8" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="modeling" type="PythonConfigurationType" factoryName="Python">
+      <module name="001_bert_morp_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_pretrained_bert/modeling.py" />
+      <option name="PARAMETERS" value="--openapi_key='922f3ed2-fda9-42fb-85a8-18909314f43c' --bert_mode='bert_config.json' --bert_model_file='pytorch_model.bin' --vocab_file='vocab.korean_morp.list' --output_dir='output_dir' --train_file='KorQuAD_v1.0_train.json' --predict_file='KorQuAD_v1.0_dev.json' --eval_folder='./output_dir' --train_batch_size=8" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_bert" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bert_experiment_ko" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jeon\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_examples/run_bert.py" />
+      <option name="PARAMETERS" value="--vocab_file=./vocab.korean_morp_mecab.list --data_dir=./input_data/labor --bert_model_path=./model/ --bert_model_name=pytorch_model.bin --max_seq_length=256 --train_batch_size=16 --num_train_epochs=200 --output_dir=output_dir --do_train --multi_label" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_classifier_morp" type="PythonConfigurationType" factoryName="Python">
+      <module name="001_bert_morp_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_examples/run_classifier_morp.py" />
+      <option name="PARAMETERS" value="--openapi_key=f6792809-8481-4753-94bc-8f14adaecf45 --task_name=labor --vocab_file=./vocab.korean_morp_mecab.list --data_dir=./data_classifier_sample --bert_model_path=./ --max_seq_length=300 --train_batch_size=8 --learning_rate=2e-5 --num_train_epochs=100.0 --output_dir=output_dir --post_model=True" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_classifier_morp_hierarchical" type="PythonConfigurationType" factoryName="Python">
+      <module name="001_bert_morp_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_examples/run_classifier_morp_hierarchical.py" />
+      <option name="PARAMETERS" value="--vocab_file=./vocab.korean_morp_mecab.list --data_dir=./data_classifier_sample --bert_model_path=./ --max_seq_length=300 --train_batch_size=8 --learning_rate=2e-5 --num_train_epochs=100 --output_dir=output_dir" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_classifier_morp_lstm" type="PythonConfigurationType" factoryName="Python">
+      <module name="001_bert_morp_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\test\bert_experiment\src_examples\train_lstm.py" />
+      <option name="PARAMETERS" value="--vocab_file=./vocab.korean_morp_mecab.list --data_dir=./data_classifier_sample --bert_model_path=./ --max_seq_length=300 --train_batch_size=8 --learning_rate=2e-5 --num_train_epochs=5 --output_dir=output_dir --do_train=1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_classifier_morp_test" type="PythonConfigurationType" factoryName="Python">
+      <module name="001_bert_morp_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_examples/run_classifier_morp_doc.py" />
+      <option name="PARAMETERS" value="--task_name=labor --vocab_file=./vocab.korean_morp.list --data_dir=./data_classifier_sample --bert_model_path=./ --max_seq_length=300 --train_batch_size=8 --learning_rate=2e-5 --num_train_epochs=20.0 --output_dir=output_dir" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_post_training" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bert_experiment_ko" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jeon\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_examples/run_post_training.py" />
+      <option name="PARAMETERS" value="--bert_model_path=./model/ --bert_model_name=pytorch_model.bin --npz_file=labor_post_all.npz --npz_file_dir=./input_data/ --output_dir=post" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_post_training" />
+      <item itemvalue="Python.run_bert" />
+      <item itemvalue="Python.run_classifier_morp_lstm" />
+      <item itemvalue="Python.modeling" />
+      <item itemvalue="Python.run_classifier_morp" />
+      <item itemvalue="Python.run_classifier_morp_test" />
+      <item itemvalue="Python.run_classifier_morp_hierarchical" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80247cb9-73b2-476b-8a32-a339323a6d03" name="Default Changelist" comment="" />
+      <created>1560321787626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560321787626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.tsv" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+﻿
+_갑_	NNP
+_을_	NNP
+_병_	NNP
+_을_등_	NNP
+_인_	NNP
+_제삼자_	NNP
+_날짜_	NNP
+_빈칸_	NNP
+_시간_	NNP
+_전화번호_	NNP
+
+유첨	NNP
+기관명	NNP
+본	MM
+용역료	NNP
+공정거래법	NNP
+공정거래	NNP
+공정화	NNP
+기술료	NNP
+작업료	NNP
+소프트웨어	NNP
+상호협조	NNP
+계약이행	NNP
+납품	NNP
+하자	NNP
+검수	NNP
+보수	NNP
+신청서	NNP
+과제명	NNP
+당해	NNP
+지급일	NNP
+로열티	NNP
+개발비	NNP
+별첨	NNP
+
+
+
