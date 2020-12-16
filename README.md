@@ -37,3 +37,6 @@ A Research on Classification of Contract Terms Using BERT-Based Sentence-wise At
 
 ![image](https://user-images.githubusercontent.com/37866322/102350558-70102180-3fe8-11eb-92e9-185b7ae97bed.png)
 
+### License
+
+- ETRI에서 제공한 KorBERT 형태소 버전 사용
