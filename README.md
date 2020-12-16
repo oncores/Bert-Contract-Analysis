@@ -29,8 +29,10 @@ A Research on Classification of Contract Terms Using BERT-Based Sentence-wise At
 ![image](https://user-images.githubusercontent.com/37866322/102350264-fd9f4180-3fe7-11eb-84d5-74351d1fedee.png)
 
 ### Contract Analysis Example
+- 근로계약서 분류 결과 예시
 
 ![image](https://user-images.githubusercontent.com/37866322/102350503-5e2e7e80-3fe8-11eb-880d-37786f35932b.png)
 
+- 사채인수계약서 분류 결과 예시
 ![image](https://user-images.githubusercontent.com/37866322/102350558-70102180-3fe8-11eb-92e9-185b7ae97bed.png)
 
